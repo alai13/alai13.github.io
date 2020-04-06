@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alai13.github.io</id>
     <title>alai13</title>
-    <updated>2020-04-06T03:44:34.531Z</updated>
+    <updated>2020-04-06T03:47:55.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alai13.github.io"/>
     <link rel="self" href="https://alai13.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://alai13.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, alai13</rights>
     <entry>
-        <title type="html"><![CDATA[me~]]></title>
+        <title type="html"><![CDATA[me]]></title>
         <id>https://alai13.github.io/post/me~/</id>
         <link href="https://alai13.github.io/post/me~/">
         </link>
